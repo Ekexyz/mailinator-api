@@ -1,2 +1,2 @@
-# mailinator-api
-Copado Robotic Testing for Mailinator sample
+# mailinator-api - Copado Robotic Testing
+## Read links from Emails sent to your Mailinator private inbox.
